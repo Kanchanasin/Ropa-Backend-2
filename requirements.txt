@@ -1,6 +1,5 @@
 fastapi[standard]
 SQLAlchemy
-pymysql
 pyjwt
 pwdlib[argon2]
 cryptography
